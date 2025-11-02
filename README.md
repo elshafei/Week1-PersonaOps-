@@ -1,4 +1,4 @@
-# Week1-PersonaOps-
+# Week1-PersonaOps
 Build and ship a production-ready content generation microservice and CLI that leverage prompt patterns to produce persona-controlled, structured JSON outputs — with built-in safety, observability, and lightweight evaluation harness.
 
 # 🧠 Day1proj"LLM microservice" — PersonaOps (C# .NET 9)
@@ -20,12 +20,14 @@ The app sends user prompts to an LLM provider (Hugging Face endpoint by default)
 
 
 Day1proj/
-├── Day1proj.API/ → ASP.NET Web API project
+├── Day1proj.API/ → ASP.NET Web API project 
+
 │ ├── Controllers/GenerateController.cs
 │ ├── Services/HuggingFaceService.cs  /JsonExtractor.cs
 │ ├── PromptTemplte/PrompetTemp.cs  ->TemplateFactory
 │ ├── Models/GenRequest.cs / GenResponse.cs
 │ └── appsettings.json
+
 │
 ├── Day1proj.Week1CLI/ → CLI client using System.CommandLine
   ├── CLIService.cs
