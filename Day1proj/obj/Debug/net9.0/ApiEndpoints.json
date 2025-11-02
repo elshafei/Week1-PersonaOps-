@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Day1proj.Controllers.generateController",
+    "Method": "Post",
+    "RelativePath": "api/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Day1proj.Models.GenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Day1proj.Models.GenResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

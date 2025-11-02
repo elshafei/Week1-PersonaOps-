@@ -1,0 +1,17 @@
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\bin\Debug\net9.0\Week1CLI.exe
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\bin\Debug\net9.0\Week1CLI.deps.json
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\bin\Debug\net9.0\Week1CLI.runtimeconfig.json
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\bin\Debug\net9.0\Week1CLI.dll
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\bin\Debug\net9.0\Week1CLI.pdb
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\obj\Debug\net9.0\Week1CLI.csproj.AssemblyReference.cache
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\obj\Debug\net9.0\Week1CLI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\obj\Debug\net9.0\Week1CLI.AssemblyInfoInputs.cache
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\obj\Debug\net9.0\Week1CLI.AssemblyInfo.cs
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\obj\Debug\net9.0\Week1CLI.csproj.CoreCompileInputs.cache
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\obj\Debug\net9.0\Week1CLI.csproj.Up2Date
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\obj\Debug\net9.0\Week1CLI.dll
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\obj\Debug\net9.0\refint\Week1CLI.dll
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\obj\Debug\net9.0\Week1CLI.pdb
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\obj\Debug\net9.0\Week1CLI.genruntimeconfig.cache
+D:\Gen AI\DAY1\LAB\Day1proj\Week1CLI\obj\Debug\net9.0\ref\Week1CLI.dll

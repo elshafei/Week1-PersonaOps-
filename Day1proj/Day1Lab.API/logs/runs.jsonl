@@ -1,0 +1,7 @@
+{"Provider":"huggingface","Model":"openai/gpt-oss-20b","Latency_Ms":758,"Cost_Est":0.0014,"Request_Id":"chatcmpl-184125f9-3a18-465c-86b4-168cda6a6735"}
+{"Provider":"huggingface","Model":"openai/gpt-oss-20b","Latency_Ms":853,"Cost_Est":0.0015,"Request_Id":"chatcmpl-b04b5566-06da-48ee-80a5-1cd641dd464a"}
+{"Provider":"huggingface","Model":"openai/gpt-oss-20b","Latency_Ms":1173,"Cost_Est":0.0018,"Request_Id":"chatcmpl-7913c6b6-9a59-49c5-8367-735640569296"}
+{"Provider":"openai","Model":"gpt-4o-mini","Latency_Ms":707,"Cost_Est":0.0012,"Request_Id":"chatcmpl-f42dd1a7-e94e-47e8-8ef3-09d8f8a35dea"}
+{"Provider":"openai","Model":"gpt-4o-mini","Latency_Ms":689,"Cost_Est":0.0013,"Request_Id":"chatcmpl-874908a8-96f2-4981-8272-7f55aa9a3d64"}
+{"Provider":"openai","Model":"gpt-4o-mini","Latency_Ms":447,"Cost_Est":0.0009,"Request_Id":"chatcmpl-6718541b-cf28-4a44-bbd7-60b998aa39a6"}
+{"Provider":"huggingface","Model":"openai/gpt-oss-20b","Latency_Ms":395,"Cost_Est":0.0008,"Request_Id":"chatcmpl-2199c2d5-bac4-484a-a1b4-1991d032e4de"}
